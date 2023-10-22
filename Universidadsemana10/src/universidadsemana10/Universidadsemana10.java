@@ -6,7 +6,7 @@ package universidadsemana10;
 
 /**
  *
- * @author Us
+ * @author is jairo
  */
 public class Universidadsemana10 {
 
